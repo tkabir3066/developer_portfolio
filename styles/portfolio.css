@@ -131,3 +131,14 @@ main {
 .about-info .info-title {
   color: #757575;
 }
+
+#what-i-do-description {
+  padding: 30px 150px;
+}
+
+/* skills section */
+.skills-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
